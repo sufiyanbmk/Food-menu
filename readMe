@@ -1,0 +1,30 @@
+Food Menu Application with Node.js and MongoDB
+
+This is a Node.js application for managing a food menu with "admin" and "user" roles. The application uses MongoDB for data storage.
+
+Features
+Admin: Login, menu management (categories and food items), user management.
+User: Signup, login, profile editing, view menu.
+
+Extra Functionalities
+
+TypeScript: Implementation using TypeScript for better code quality.
+AWS S3 Integration: Menu image upload to AWS S3 for efficient storage.
+
+Prerequisites
+
+Node.js
+MongoDB
+typeScript
+AWS S3 Account (for menu image upload)
+
+Getting Started
+
+Clone the repository and install dependencies.
+
+Configure MongoDB and AWS S3 credentials.
+
+Run the application and access it at http://localhost:3000.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
